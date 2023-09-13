@@ -1,0 +1,42 @@
+/* Faculty.css */
+
+.student {
+  padding-bottom: 20px;
+  width: 100%;
+}
+
+.nav {
+    background-color: #333; /* Background color for the navigation bar */
+    color: #fff; /* Text color for navigation links */
+    padding: 20px;
+  }
+  
+  .navlinks {
+    list-style: none; /* Remove list bullets */
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navlinks a {
+    text-decoration: none; /* Remove underlines from links */
+    color: #fff; /* Link text color */
+    margin-right: 20px; /* Add spacing between links */
+    font-weight: bold; /* Make links bold */
+  }
+  
+  .navlinks a:hover {
+    text-decoration: underline; /* Underline links on hover */
+  }
+  
+  .butt {
+    background-color: #f00;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: auto;
+  }
+  

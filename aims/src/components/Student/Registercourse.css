@@ -1,0 +1,18 @@
+.registercourse {
+    background-color: white;
+    width: 100%;
+}
+.buttstudent {
+    background-color: blueviolet;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: auto;
+  }
+.table{
+    padding: 20px;
+}
